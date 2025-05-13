@@ -12,9 +12,9 @@ export const sourceSansPro = Source_Sans_3({
   display: "swap",
 });
 
-interface Props {
-  links: { href: string; label: string }[];
-}
+// interface Props {
+//   links: { href: string; label: string }[];
+// }
 
 export default function HamburgerMenu() {
   const [isOpen, setIsOpen] = useState(false);

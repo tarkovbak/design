@@ -28,7 +28,7 @@ const Promotion = () => {
         {/* Block 1 */}
         <div className={`flex flex-col lg:flex-row items-center gap-10 mb-16 ${sourceSansPro.className}`}>
           <div className="w-full lg:w-1/2">
-            <img
+            <Image
               src="/get-it-sold1.webp"
               alt="Top Sales"
               loading="lazy"
@@ -51,7 +51,7 @@ const Promotion = () => {
         {/* Block 2 */}
         <div className="flex flex-col lg:flex-row-reverse items-center gap-10 mb-16">
           <div className="w-full lg:w-1/2">
-            <img
+            <Image
               src="/get-it-sold-2.webp"
               alt="Get it SOLD"
               loading="lazy"
@@ -60,7 +60,7 @@ const Promotion = () => {
           </div>
           <div className="w-full lg:w-1/2">
             <h4 className="text-2xl mb-4">
-              Don't Just List it...
+              Don&apos;t Just List it...
             </h4>
             <p className="text-lg text-gray-500">
               Get it SOLD! We exhaust every avenue to ensure our listings are at
@@ -73,7 +73,7 @@ const Promotion = () => {
         {/* Block 3 */}
         <div className="flex flex-col lg:flex-row items-center gap-10">
           <div className="w-full lg:w-1/2">
-            <img
+            <Image
               src="/get-it-sold-3.webp"
               alt="Guide to Buyers"
               loading="lazy"

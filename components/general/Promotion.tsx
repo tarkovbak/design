@@ -1,6 +1,7 @@
 import React from "react";
 import { Source_Sans_3 } from 'next/font/google';
 import { Cinzel } from 'next/font/google';
+import Image from "next/image";
 
 export const sourceSansPro = Source_Sans_3({
   subsets: ['latin'],

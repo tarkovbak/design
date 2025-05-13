@@ -77,7 +77,7 @@ export default function HamburgerMenu() {
             href="/"
             onClick={() => setIsOpen(false)}
           >
-            LET'S MOVE
+            LET&apos;S MOVE
           </Link>
           <Link
             className="text-md font-medium link-hover-underline-collapsed"

@@ -28,7 +28,7 @@ const NavBar = () => {
             LISTINGS
           </Link>
           <Link className="text-md font-medium link-hover-underline" href="/">
-            LET'S MOVE
+            LET&apos;S MOVE
           </Link>
           <Link className="text-md font-medium link-hover-underline" href="/">
             ABOUT US
